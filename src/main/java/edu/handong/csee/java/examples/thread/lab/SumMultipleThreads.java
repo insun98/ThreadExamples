@@ -43,8 +43,6 @@ public class SumMultipleThreads {
 				}
 			}
 		}
-	
-			
 		
 		long grandTotal = 0;
 		
